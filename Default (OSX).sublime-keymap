@@ -1,0 +1,8 @@
+[
+	{ "keys": ["super+shift+alt+forward_slash"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["super+escape"], "command": "single_selection", "context":
+		[
+			{ "key": "num_selections", "operator": "not_equal", "operand": 1 }
+		]
+	}
+]

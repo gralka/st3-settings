@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"DashDoc",
+		"DocBlockr",
+		"jQuery",
+		"JSHint Gutter",
+		"Laravel Blade Highlighter",
+		"Origami",
+		"Package Control",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"Sass",
+		"SideBarEnhancements",
+		"SJSON",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}

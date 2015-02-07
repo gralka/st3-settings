@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"AngularJS"
+	],
+	"tab_size": 4
+}
